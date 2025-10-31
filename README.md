@@ -14,7 +14,7 @@ A simple example project demonstrating how to use Rust-compiled WebAssembly modu
 
 ```bash
 cd node
-npm start
+node index.js # or bun index.js
 ```
 
 ## Detailed Setup
@@ -33,7 +33,7 @@ npm start
 
 2. Run the script:
    ```bash
-   npm start
+   node index.js # or bun index.js
    ```
 
 This will execute the Node.js script that imports and uses the WebAssembly module compiled from Rust.
