@@ -1,4 +1,4 @@
-import * as wasm from '../rust/pkg/wasm_example.js';
+import * as wasm from './pkg/wasm_example.js';
 
 const result = wasm.add(10, 32);
 
