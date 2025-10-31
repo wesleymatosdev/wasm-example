@@ -80,4 +80,4 @@ This will regenerate the files in the `rust/pkg/` directory.
 
 ## License
 
-ISC
+MIT
