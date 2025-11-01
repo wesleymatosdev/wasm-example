@@ -61,7 +61,7 @@ If you want to modify the Rust code and rebuild the WebAssembly module:
 
 2. Install wasm-pack:
    ```bash
-   curl https://rustwasm.github.io/wasm-pack/installer/init.sh -sSf | sh
+   cargo install wasm-pack
    ```
 
 ### Build the WebAssembly Module
